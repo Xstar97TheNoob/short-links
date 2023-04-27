@@ -1,2 +1,2 @@
-# redirectarr
-redirect links
+# redirectflare
+redirect links using cloudflare pages.
