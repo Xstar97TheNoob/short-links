@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "build": "chmod +x short-links-generator && ./short-links-generator"
+      }
+  }
