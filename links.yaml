@@ -1,0 +1,108 @@
+redirects:
+  - social:
+      - src: /tv
+        dest: https://www.twitch.tv/xstar97thenoob
+        code: 308
+      - src: /twitch
+        dest: https://www.twitch.tv/xstar97thenoob
+        code: 308
+      - src: /fb
+        dest: https://www.facebook.com/Xstar97TheNoob
+        code: 308
+      - src: /facebook
+        dest: https://www.facebook.com/Xstar97TheNoob
+        code: 308
+      - src: /discord
+        dest: https://discord.gg/dv8FCQMhCN
+        code: 308
+      - src: /discord/user
+        dest: https://discord.com/users/395071499712593930
+        code: 308
+      - src: /tw
+        dest: https://twitter.com/xstar97thenoob
+        code: 308
+      - src: /yt
+        dest: https://www.youtube.com/@xstar97thenoob
+        code: 308
+      - src: /youtube
+        dest: https://www.youtube.com/@xstar97thenoob
+        code: 308
+      - src: /reddit
+        dest: https://www.reddit.com/r/Xstar97TheNoob
+        code: 308
+      - src: /tk
+        dest: https://www.tiktok.com/@xstar97thenoob
+        code: 308
+      - src: /tiktok
+        dest: https://www.tiktok.com/@xstar97thenoob
+        code: 308
+      - src: /telegram
+        dest: https://t.me/Xstar97TheNoob
+        code: 308
+      - src: /insta
+        dest: https://www.instagram.com/xstar97thenoob
+        code: 308
+  - web:
+      - src: /gh
+        dest: https://github.com/xstar97
+        code: 308
+      - src: /github
+        dest: https://github.com/xstar97
+        code: 308
+      - src: /steam
+        dest: https://steamcommunity.com/id/xstar97thenoob
+        code: 308
+      - src: /profile
+        dest: https://streamelements.com/xstar97thenoob
+        code: 308
+      - src: /links
+        dest: https://links.xstar97thenoob.com/
+        code: 308
+      - src: /docs
+        dest: https://docs.xstar97thenoob.com/
+        code: 308
+      - src: /apd
+        dest: https://apd.xstar97thenoob.com
+        code: 308
+  - donation:
+      - src: /patreon
+        dest: https://www.patreon.com/Xstar97TheNoob
+        code: 308
+      - src: /cash
+        dest: https://cash.app/$Xstar97TheNoob
+        code: 308
+      - src: /tip
+        dest: https://streamelements.com/xstar97thenoob/tip
+        code: 308
+      - src: /ko-fi
+        dest: https://ko-fi.com/xstar97thenoob
+        code: 308
+      - src: /donate
+        dest: https://streamelements.com/xstar97thenoob/tip
+        code: 308
+      - src: /paypal
+        dest: https://paypal.me/xstar97thenoob
+        code: 308
+      - src: /pp/:price
+        dest: https://paypal.me/xstar97thenoob/:price
+        code: 308
+      - src: /venmo
+        dest: https://venmo.com/xstar97thenoob
+        code: 308
+      - src: /stakeus
+        dest: https://stake.us/?c=Xstar97TheNoob
+        code: 308
+  - gag:
+      - src: /onlyfans
+        dest: https://cash.app/$Xstar97TheNoob
+        code: 308
+      - src: /of
+        dest: https://cash.app/$Xstar97TheNoob
+        code: 308
+  - wildcard:
+      - src: /
+        dest: /links
+        code: 308
+      - src: /*
+        dest: https://error.xstar97thenoob.com
+        code: 308
