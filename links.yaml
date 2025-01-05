@@ -92,6 +92,9 @@ redirects:
       - src: /stakeus
         dest: https://stake.us/?c=Xstar97TheNoob
         code: 308
+      - src: /crypto
+        dest: https://link.depay.com/7WstIbNsfF2MhFrbiAOowX
+        code: 308
   - gag:
       - src: /onlyfans
         dest: https://cash.app/$Xstar97TheNoob
